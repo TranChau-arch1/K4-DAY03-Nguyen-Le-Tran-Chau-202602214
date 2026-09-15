@@ -42,7 +42,7 @@ Ca nào hai người quyết khác nhau, và luật nào còn thiếu trong `GUI
 
 | Evidence | Giá trị |
 | --- | --- |
-| SHA-256 từ `evidence/pre-gold/clip_01/manifest.json` | `...` |
+| SHA-256 từ `evidence/pre-gold/clip_01/manifest.json` | `a244e20cd119ebb1cae02abb9b26c34c8f05b780b23ef106c86e175538d6ab7a` |
 | Thời điểm khóa | `...` |
 | Số row / frame / track trước khi mở reference | `...` |
 
